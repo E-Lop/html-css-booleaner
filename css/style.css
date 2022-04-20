@@ -27,3 +27,28 @@ main {
 .author {
   color: #35b1e7;
 }
+
+/* compensazione del reset iniziale per mostrare i pallini */
+ul li {
+  margin-left: 16px;
+}
+
+/* colore titoli tabella */
+thead tr {
+  background-color: #20a9e5;
+}
+
+/* allineamento ultima colonna dx tabella */
+.rightmost-column {
+  width: 50%;
+}
+
+/* titoli tabella allineati a sx */
+tr th {
+  text-align: left;
+}
+
+/* colore sfondo righe dispari tabella */
+.righe-dispari {
+  background-color: #b1e5f2;
+}
