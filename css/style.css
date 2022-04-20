@@ -28,6 +28,10 @@ main {
   color: #35b1e7;
 }
 
+mark {
+  background-color: yellow;
+}
+
 /* compensazione del reset iniziale per mostrare i pallini */
 ul li {
   margin-left: 16px;
